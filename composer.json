@@ -1,0 +1,17 @@
+{
+    "name": "pikshare",
+    "repositories": [
+        {
+            "type": "pear",
+            "url": "http://pear.cakephp.org"
+        }
+    ],
+    "require": {
+        "pear-pear.cakephp.org/CakePHP": ">=2.4.0",
+        "cakephp/debug_kit": "2.2.*",
+        "cakephp/localized": "2.2.*"  
+    },
+    "config": {
+        "vendor-dir": "Vendor/"
+    }
+}

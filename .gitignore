@@ -1,0 +1,7 @@
+# User specific & automatically generated files #
+#################################################
+/Plugin
+/Vendor
+/myapp/Config/database.php
+/myapp/Config/email.php
+/.sass-cache
